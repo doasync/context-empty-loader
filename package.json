@@ -1,0 +1,25 @@
+{
+  "name": "context-empty-loader",
+  "version": "0.1.0",
+  "author": "doasync <doasync@gmail.com>",
+  "license": "MIT",
+  "description": "Webpack loader that returns an empty module for specific folders",
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doasync/context-empty-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "empty",
+    "context",
+    "folder"
+  ],
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
